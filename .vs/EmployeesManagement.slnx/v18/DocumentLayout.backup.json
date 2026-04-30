@@ -1,0 +1,307 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\rapvi\\source\\repos\\EmployeesManagement\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2D083F47-B8AA-F3D9-4C4F-F6CD7E7AA087}|EmployeesManagement\\EmployeesManagement.csproj|c:\\users\\rapvi\\source\\repos\\employeesmanagement\\employeesmanagement\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2D083F47-B8AA-F3D9-4C4F-F6CD7E7AA087}|EmployeesManagement\\EmployeesManagement.csproj|solutionrelative:employeesmanagement\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D083F47-B8AA-F3D9-4C4F-F6CD7E7AA087}|EmployeesManagement\\EmployeesManagement.csproj|c:\\users\\rapvi\\source\\repos\\employeesmanagement\\employeesmanagement\\views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2D083F47-B8AA-F3D9-4C4F-F6CD7E7AA087}|EmployeesManagement\\EmployeesManagement.csproj|solutionrelative:employeesmanagement\\views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D083F47-B8AA-F3D9-4C4F-F6CD7E7AA087}|EmployeesManagement\\EmployeesManagement.csproj|c:\\users\\rapvi\\source\\repos\\employeesmanagement\\employeesmanagement\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2D083F47-B8AA-F3D9-4C4F-F6CD7E7AA087}|EmployeesManagement\\EmployeesManagement.csproj|solutionrelative:employeesmanagement\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D083F47-B8AA-F3D9-4C4F-F6CD7E7AA087}|EmployeesManagement\\EmployeesManagement.csproj|c:\\users\\rapvi\\source\\repos\\employeesmanagement\\employeesmanagement\\views\\employees\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2D083F47-B8AA-F3D9-4C4F-F6CD7E7AA087}|EmployeesManagement\\EmployeesManagement.csproj|solutionrelative:employeesmanagement\\views\\employees\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D083F47-B8AA-F3D9-4C4F-F6CD7E7AA087}|EmployeesManagement\\EmployeesManagement.csproj|c:\\users\\rapvi\\source\\repos\\employeesmanagement\\employeesmanagement\\views\\employees\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2D083F47-B8AA-F3D9-4C4F-F6CD7E7AA087}|EmployeesManagement\\EmployeesManagement.csproj|solutionrelative:employeesmanagement\\views\\employees\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D083F47-B8AA-F3D9-4C4F-F6CD7E7AA087}|EmployeesManagement\\EmployeesManagement.csproj|c:\\users\\rapvi\\source\\repos\\employeesmanagement\\employeesmanagement\\views\\employees\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2D083F47-B8AA-F3D9-4C4F-F6CD7E7AA087}|EmployeesManagement\\EmployeesManagement.csproj|solutionrelative:employeesmanagement\\views\\employees\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D083F47-B8AA-F3D9-4C4F-F6CD7E7AA087}|EmployeesManagement\\EmployeesManagement.csproj|c:\\users\\rapvi\\source\\repos\\employeesmanagement\\employeesmanagement\\models\\useractivity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D083F47-B8AA-F3D9-4C4F-F6CD7E7AA087}|EmployeesManagement\\EmployeesManagement.csproj|solutionrelative:employeesmanagement\\models\\useractivity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D083F47-B8AA-F3D9-4C4F-F6CD7E7AA087}|EmployeesManagement\\EmployeesManagement.csproj|c:\\users\\rapvi\\source\\repos\\employeesmanagement\\employeesmanagement\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D083F47-B8AA-F3D9-4C4F-F6CD7E7AA087}|EmployeesManagement\\EmployeesManagement.csproj|solutionrelative:employeesmanagement\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D083F47-B8AA-F3D9-4C4F-F6CD7E7AA087}|EmployeesManagement\\EmployeesManagement.csproj|c:\\users\\rapvi\\source\\repos\\employeesmanagement\\employeesmanagement\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D083F47-B8AA-F3D9-4C4F-F6CD7E7AA087}|EmployeesManagement\\EmployeesManagement.csproj|solutionrelative:employeesmanagement\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D083F47-B8AA-F3D9-4C4F-F6CD7E7AA087}|EmployeesManagement\\EmployeesManagement.csproj|c:\\users\\rapvi\\source\\repos\\employeesmanagement\\employeesmanagement\\views\\employees\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2D083F47-B8AA-F3D9-4C4F-F6CD7E7AA087}|EmployeesManagement\\EmployeesManagement.csproj|solutionrelative:employeesmanagement\\views\\employees\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D083F47-B8AA-F3D9-4C4F-F6CD7E7AA087}|EmployeesManagement\\EmployeesManagement.csproj|c:\\users\\rapvi\\source\\repos\\employeesmanagement\\employeesmanagement\\views\\employees\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2D083F47-B8AA-F3D9-4C4F-F6CD7E7AA087}|EmployeesManagement\\EmployeesManagement.csproj|solutionrelative:employeesmanagement\\views\\employees\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D083F47-B8AA-F3D9-4C4F-F6CD7E7AA087}|EmployeesManagement\\EmployeesManagement.csproj|c:\\users\\rapvi\\source\\repos\\employeesmanagement\\employeesmanagement\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D083F47-B8AA-F3D9-4C4F-F6CD7E7AA087}|EmployeesManagement\\EmployeesManagement.csproj|solutionrelative:employeesmanagement\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D083F47-B8AA-F3D9-4C4F-F6CD7E7AA087}|EmployeesManagement\\EmployeesManagement.csproj|c:\\users\\rapvi\\source\\repos\\employeesmanagement\\employeesmanagement\\controllers\\employeescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D083F47-B8AA-F3D9-4C4F-F6CD7E7AA087}|EmployeesManagement\\EmployeesManagement.csproj|solutionrelative:employeesmanagement\\controllers\\employeescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D083F47-B8AA-F3D9-4C4F-F6CD7E7AA087}|EmployeesManagement\\EmployeesManagement.csproj|c:\\users\\rapvi\\source\\repos\\employeesmanagement\\employeesmanagement\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{2D083F47-B8AA-F3D9-4C4F-F6CD7E7AA087}|EmployeesManagement\\EmployeesManagement.csproj|solutionrelative:employeesmanagement\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D083F47-B8AA-F3D9-4C4F-F6CD7E7AA087}|EmployeesManagement\\EmployeesManagement.csproj|c:\\users\\rapvi\\source\\repos\\employeesmanagement\\employeesmanagement\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D083F47-B8AA-F3D9-4C4F-F6CD7E7AA087}|EmployeesManagement\\EmployeesManagement.csproj|solutionrelative:employeesmanagement\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D083F47-B8AA-F3D9-4C4F-F6CD7E7AA087}|EmployeesManagement\\EmployeesManagement.csproj|c:\\users\\rapvi\\source\\repos\\employeesmanagement\\employeesmanagement\\data\\migrations\\20260407230635_employeesdetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D083F47-B8AA-F3D9-4C4F-F6CD7E7AA087}|EmployeesManagement\\EmployeesManagement.csproj|solutionrelative:employeesmanagement\\data\\migrations\\20260407230635_employeesdetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D083F47-B8AA-F3D9-4C4F-F6CD7E7AA087}|EmployeesManagement\\EmployeesManagement.csproj|c:\\users\\rapvi\\source\\repos\\employeesmanagement\\employeesmanagement\\views\\employees.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D083F47-B8AA-F3D9-4C4F-F6CD7E7AA087}|EmployeesManagement\\EmployeesManagement.csproj|solutionrelative:employeesmanagement\\views\\employees.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 13,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_LoginPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\rapvi\\source\\repos\\EmployeesManagement\\EmployeesManagement\\Views\\Shared\\_LoginPartial.cshtml",
+              "RelativeDocumentMoniker": "EmployeesManagement\\Views\\Shared\\_LoginPartial.cshtml",
+              "ToolTip": "C:\\Users\\rapvi\\source\\repos\\EmployeesManagement\\EmployeesManagement\\Views\\Shared\\_LoginPartial.cshtml",
+              "RelativeToolTip": "EmployeesManagement\\Views\\Shared\\_LoginPartial.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-12T22:41:45.174Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "C:\\Users\\rapvi\\source\\repos\\EmployeesManagement\\EmployeesManagement\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "EmployeesManagement\\Views\\Home\\Privacy.cshtml",
+              "ToolTip": "C:\\Users\\rapvi\\source\\repos\\EmployeesManagement\\EmployeesManagement\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "EmployeesManagement\\Views\\Home\\Privacy.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-12T22:40:23.611Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\rapvi\\source\\repos\\EmployeesManagement\\EmployeesManagement\\Views\\Employees\\Edit.cshtml",
+              "RelativeDocumentMoniker": "EmployeesManagement\\Views\\Employees\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\rapvi\\source\\repos\\EmployeesManagement\\EmployeesManagement\\Views\\Employees\\Edit.cshtml",
+              "RelativeToolTip": "EmployeesManagement\\Views\\Employees\\Edit.cshtml",
+              "ViewState": "AgIAAFcAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-12T22:39:57.153Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\rapvi\\source\\repos\\EmployeesManagement\\EmployeesManagement\\Views\\Employees\\Details.cshtml",
+              "RelativeDocumentMoniker": "EmployeesManagement\\Views\\Employees\\Details.cshtml",
+              "ToolTip": "C:\\Users\\rapvi\\source\\repos\\EmployeesManagement\\EmployeesManagement\\Views\\Employees\\Details.cshtml",
+              "RelativeToolTip": "EmployeesManagement\\Views\\Employees\\Details.cshtml",
+              "ViewState": "AgIAAGMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-12T22:39:47.795Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\rapvi\\source\\repos\\EmployeesManagement\\EmployeesManagement\\Views\\Employees\\Delete.cshtml",
+              "RelativeDocumentMoniker": "EmployeesManagement\\Views\\Employees\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\rapvi\\source\\repos\\EmployeesManagement\\EmployeesManagement\\Views\\Employees\\Delete.cshtml",
+              "RelativeToolTip": "EmployeesManagement\\Views\\Employees\\Delete.cshtml",
+              "ViewState": "AgIAAFoAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-12T22:14:41.699Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\rapvi\\source\\repos\\EmployeesManagement\\EmployeesManagement\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "EmployeesManagement\\Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Users\\rapvi\\source\\repos\\EmployeesManagement\\EmployeesManagement\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "EmployeesManagement\\Models\\ErrorViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-12T22:27:42.872Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\rapvi\\source\\repos\\EmployeesManagement\\EmployeesManagement\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "EmployeesManagement\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\rapvi\\source\\repos\\EmployeesManagement\\EmployeesManagement\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "EmployeesManagement\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-12T21:44:32.846Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\rapvi\\source\\repos\\EmployeesManagement\\EmployeesManagement\\Views\\Employees\\Index.cshtml",
+              "RelativeDocumentMoniker": "EmployeesManagement\\Views\\Employees\\Index.cshtml",
+              "ToolTip": "C:\\Users\\rapvi\\source\\repos\\EmployeesManagement\\EmployeesManagement\\Views\\Employees\\Index.cshtml",
+              "RelativeToolTip": "EmployeesManagement\\Views\\Employees\\Index.cshtml",
+              "ViewState": "AgIAAD8AAAAAAAAAAAAAAAYAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-08T00:04:42.186Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "20260407230635_EmployeesDetails.cs",
+              "DocumentMoniker": "C:\\Users\\rapvi\\source\\repos\\EmployeesManagement\\EmployeesManagement\\Data\\Migrations\\20260407230635_EmployeesDetails.cs",
+              "RelativeDocumentMoniker": "EmployeesManagement\\Data\\Migrations\\20260407230635_EmployeesDetails.cs",
+              "ToolTip": "C:\\Users\\rapvi\\source\\repos\\EmployeesManagement\\EmployeesManagement\\Data\\Migrations\\20260407230635_EmployeesDetails.cs",
+              "RelativeToolTip": "EmployeesManagement\\Data\\Migrations\\20260407230635_EmployeesDetails.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-07T23:06:35.566Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\rapvi\\source\\repos\\EmployeesManagement\\EmployeesManagement\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "EmployeesManagement\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\rapvi\\source\\repos\\EmployeesManagement\\EmployeesManagement\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "EmployeesManagement\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-07T23:03:59.677Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\rapvi\\source\\repos\\EmployeesManagement\\EmployeesManagement\\Models\\Employee.cs",
+              "RelativeDocumentMoniker": "EmployeesManagement\\Models\\Employee.cs",
+              "ToolTip": "C:\\Users\\rapvi\\source\\repos\\EmployeesManagement\\EmployeesManagement\\Models\\Employee.cs",
+              "RelativeToolTip": "EmployeesManagement\\Models\\Employee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-07T21:50:47.103Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\rapvi\\source\\repos\\EmployeesManagement\\EmployeesManagement\\Views\\Employees\\Create.cshtml",
+              "RelativeDocumentMoniker": "EmployeesManagement\\Views\\Employees\\Create.cshtml",
+              "ToolTip": "C:\\Users\\rapvi\\source\\repos\\EmployeesManagement\\EmployeesManagement\\Views\\Employees\\Create.cshtml",
+              "RelativeToolTip": "EmployeesManagement\\Views\\Employees\\Create.cshtml",
+              "ViewState": "AgIAAFQAAAAAAAAAAAAAAFoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-07T21:52:56.471Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "EmployeesController.cs",
+              "DocumentMoniker": "C:\\Users\\rapvi\\source\\repos\\EmployeesManagement\\EmployeesManagement\\Controllers\\EmployeesController.cs",
+              "RelativeDocumentMoniker": "EmployeesManagement\\Controllers\\EmployeesController.cs",
+              "ToolTip": "C:\\Users\\rapvi\\source\\repos\\EmployeesManagement\\EmployeesManagement\\Controllers\\EmployeesController.cs",
+              "RelativeToolTip": "EmployeesManagement\\Controllers\\EmployeesController.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAowDgAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-07T23:10:35.099Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\rapvi\\source\\repos\\EmployeesManagement\\EmployeesManagement\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "EmployeesManagement\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\rapvi\\source\\repos\\EmployeesManagement\\EmployeesManagement\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "EmployeesManagement\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAHEAAAAAAAAAAAAYwHUAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-07T22:50:14.147Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\rapvi\\source\\repos\\EmployeesManagement\\EmployeesManagement\\appsettings.json",
+              "RelativeDocumentMoniker": "EmployeesManagement\\appsettings.json",
+              "ToolTip": "C:\\Users\\rapvi\\source\\repos\\EmployeesManagement\\EmployeesManagement\\appsettings.json",
+              "RelativeToolTip": "EmployeesManagement\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-04-07T22:30:30.891Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Employees.cs",
+              "DocumentMoniker": "C:\\Users\\rapvi\\source\\repos\\EmployeesManagement\\EmployeesManagement\\Views\\Employees.cs",
+              "RelativeDocumentMoniker": "EmployeesManagement\\Views\\Employees.cs",
+              "ToolTip": "C:\\Users\\rapvi\\source\\repos\\EmployeesManagement\\EmployeesManagement\\Views\\Employees.cs",
+              "RelativeToolTip": "EmployeesManagement\\Views\\Employees.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-07T21:52:03.763Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "UserActivity.cs",
+              "DocumentMoniker": "C:\\Users\\rapvi\\source\\repos\\EmployeesManagement\\EmployeesManagement\\Models\\UserActivity.cs",
+              "RelativeDocumentMoniker": "EmployeesManagement\\Models\\UserActivity.cs",
+              "ToolTip": "C:\\Users\\rapvi\\source\\repos\\EmployeesManagement\\EmployeesManagement\\Models\\UserActivity.cs",
+              "RelativeToolTip": "EmployeesManagement\\Models\\UserActivity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-07T21:50:02.882Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
